@@ -1,0 +1,92 @@
+{
+    "accounts": [
+        {
+            "fname": "Adam",
+            "lname": "Smith",
+            "address": [
+                "14",
+                "Wilcot Street",
+                "Bath",
+                "B5 5RT"
+            ],
+            "account_no": 1234,
+            "balance": 7860.0,
+            "account_type": "Current",
+            "interest_rate": 0.02,
+            "overdraft_limit": 500.0
+        },
+        {
+            "fname": "David",
+            "lname": "White",
+            "address": [
+                "60",
+                "Holborn Viaduct",
+                "London",
+                "EC1A 2FD"
+            ],
+            "account_no": 1235,
+            "balance": 3400.0,
+            "account_type": "Savings",
+            "interest_rate": 0.04,
+            "overdraft_limit": 0.0
+        },
+        {
+            "fname": "Alice",
+            "lname": "Churchil",
+            "address": [
+                "5",
+                "Cardigan Street",
+                "Birmingham",
+                "B4 7BD"
+            ],
+            "account_no": 1236,
+            "balance": 18000.0,
+            "account_type": "Savings",
+            "interest_rate": 0.04,
+            "overdraft_limit": 0.0
+        },
+        {
+            "fname": "Ali",
+            "lname": "Abdallah",
+            "address": [
+                "44",
+                "Churchill Way West",
+                "Basingstoke",
+                "RG21 6YR"
+            ],
+            "account_no": 1237,
+            "balance": 40.0,
+            "account_type": "Current",
+            "interest_rate": 0.02,
+            "overdraft_limit": 200.0
+        }
+    ],
+    "admins": [
+        {
+            "fname": "Julian",
+            "lname": "Padget",
+            "address": [
+                "12",
+                "London Road",
+                "Birmingham",
+                "B95 7TT"
+            ],
+            "username": "id1188",
+            "password": "1441",
+            "super_user": true
+        },
+        {
+            "fname": "Cathy",
+            "lname": "Newman",
+            "address": [
+                "47",
+                "Mars Street",
+                "Newcastle",
+                "NE12 6TZ"
+            ],
+            "username": "id3313",
+            "password": "2442",
+            "super_user": false
+        }
+    ]
+}
